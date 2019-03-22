@@ -1,2 +1,1 @@
-
-
+def my_collect
